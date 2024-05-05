@@ -1,0 +1,36 @@
+*{
+    margin: 5px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.myname{
+    width: 100%;
+    height: 37vh;
+    background-color: lightskyblue;
+}
+.myname img{
+    margin: 5px;
+    float: left;
+    border-radius: 50%;
+    height: 200px;
+    width: 200;
+
+}
+h3{
+    text-indent: 50px;
+}
+.obj{
+    width: 100%;
+    background-color:aquamarine;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.skill{
+    width: 100%;
+    background-image: url('https://wallpaperboat.com/wp-content/uploads/2020/02/education-03.jpg');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: beige;
+}
